@@ -1,16 +1,15 @@
-### Hi there 👋
+## Introduction
+* 
+* Student at Chandigarh University
 
-<!--
-**Pranav322/Pranav322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Overview](https://github-readme-stats.vercel.app/api?username=Pranav322&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Pranav322) <br>
+-
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Visitors Count
+![Count](https://profile-counter.glitch.me/Pranav322/count.svg)
+-
+## Contact
+<a href="mailto:0x0is1@protonmail.com"><img src="https://cdn-icons-png.flaticon.com/512/860/860758.png" alt="protonmail" length=50 width=50></img></a>
+<a href="https://reddit.com/u/0x0is1"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384051.png" alt="reddit" length=50 width=50></img></a>
+<a href="https://twitter.com/0x0is1"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384049.png" alt="twitter" length=50 width=50></img></a>
+<a href="https://linkedin.com/in/notyoursurya"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384046.png" alt="linkedin" length=50 width=50></img></a>
