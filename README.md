@@ -1,5 +1,4 @@
-Okie## Introduction
-* 
+## Introduction
 * Student at Chandigarh University
 
 [![Github Overview](https://github-readme-stats.vercel.app/api?username=Pranav322&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Pranav322) <br>
