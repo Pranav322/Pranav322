@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Pranav</h1>
 
 <p align="center">
-  <em>Student at Chandigarh University | Aspiring Developer</em>
+  <em>Student at Chandigarh University </em>
 </p>
 
 <div align="center">
