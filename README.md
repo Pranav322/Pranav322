@@ -41,10 +41,12 @@
   </a>
 </p>
 
+<h3 align="center">👁️ Visitors Count</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranav322&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/Pranav322/count.svg" alt="Visitor Count" />
 </p>
 
 <p align="center">
-  <em>I am the greatest developer evr lived.</em>
+  <em>Always learning, always coding. Let's build something amazing together!</em>
 </p>
