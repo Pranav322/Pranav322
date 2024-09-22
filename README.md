@@ -65,5 +65,5 @@
 <h2 align="center">🌟 Fun Fact</h2>
 
 <p align="center">
-  <em>I believe that the best code is not just functional, but also beautiful and elegant!</em>
+  <em>I am the greatest developer ever lived.</em>
 </p>
