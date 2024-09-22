@@ -46,5 +46,5 @@
 </p>
 
 <p align="center">
-  <em>Always learning, always coding. Let's build something amazing together!</em>
+  <em>I am the greatest developer evr lived.</em>
 </p>
