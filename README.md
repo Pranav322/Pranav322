@@ -1,19 +1,15 @@
-<h1 align="center">👋 Hello, I'm Pranav</h1>
+## Pranav
+Student at Chandigarh University
 
-<p align="center">
-  <em>Student at Chandigarh University </em>
-</p>
+<details>
+  <summary>📊 GitHub Stats & Top Languages</summary>
+  <p align="center">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Pranav322&show_icons=true&theme=radical" />
+    <br /> <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav322&layout=compact&theme=radical" />
+  </p>
+</details>
 
-<div align="center">
-  
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranav322&show_icons=true&theme=radical)](https://github.com/Pranav322)
-  
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav322&layout=compact&theme=radical)](https://github.com/Pranav322)
-  
-</div>
-
-<h3 align="center">🚀 Skills</h3>
-
+### Skills
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -30,23 +26,11 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
 
-<h3 align="center">📫 Connect with Me</h3>
-
-<p align="center">
-  <a href="mailto:duckieduck@duck.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/_pranav69">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
-
-<h3 align="center">👁️ Visitors Count</h3>
+### Connect
+<p align="left"> <a href="mailto:duckieduck@duck.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://twitter.com/_pranav69"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  </p>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/Pranav322/count.svg" alt="Visitor Count" />
-</p>
-
-<p align="center">
-  <em>Always learning, always coding. Let's build something amazing together!</em>
 </p>
