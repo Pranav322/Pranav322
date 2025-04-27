@@ -1,5 +1,8 @@
-## Pranav
-Student at Chandigarh University
+# Hi, I'm Pranav <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" height="24" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=100&size=20&duration=3400&pause=100&color=2F81F7&width=435&height=30&lines=Full+Stack+Developer;Blockchain+Developer;Team+Player+%7C+Lead+%7C+Independent)](https://git.io/typing-svg)
+<br/>
+Hello, my name is Pranav and I am a bachelor's student at [chandigarh university](https://cuchd.in/) majoring in Computer Science. I am a full-stack software developer from India with a proven ability to deliver high-quality solutions.
 
 <details>
   <summary>📊 GitHub Stats & Top Languages</summary>
