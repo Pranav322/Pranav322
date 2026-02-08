@@ -51,6 +51,18 @@ I am a Full Stack Engineer from India with a focus on building production-ready 
 
 ---
 
+### 📂 Other Noteworthy Works
+
+| Project | Description |
+| :--- | :--- |
+| **[CA Docs](https://github.com/Pranav322/ca-docs)** | AI-powered RAG platform helping Chartered Accountancy students master curriculum with interactive visualizations. |
+| **[WhatsApp Bot](https://github.com/Pranav322/whatsapp-bot)** | A lean, personal assistant built with Baileys and Drizzle ORM for managing tasks directly via WhatsApp. |
+| **[TeamFinder](https://github.com/Pranav322/teamfinder)** | A collaboration platform connecting developers with relevant peers for project partnerships. |
+| **[Soulifyy](https://github.com/Pranav322/soulifyy)** | A modern web-based music streaming application leveraging the JioSaavn API. |
+| **[ChessEasy](https://github.com/Pranav322/chesseasy)** | Comprehensive chess platform featuring bot play, multi-platform game import, and advanced analysis. |
+
+---
+
 ### 🌐 Connect
 
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:duckieduck@duck.com)
