@@ -55,7 +55,7 @@ I am a Full Stack Engineer from India with a focus on building production-ready 
 
 | Project | Description |
 | :--- | :--- |
-| **[CA Docs](https://github.com/Pranav322/ca-docs)** | AI-powered RAG platform helping Chartered Accountancy students master curriculum with interactive visualizations. |
+| **[CA Docs](https://github.com/Pranav322/ca)** | AI-powered RAG platform helping Chartered Accountancy students master curriculum with interactive visualizations. |
 | **[WhatsApp Bot](https://github.com/Pranav322/whatsapp-bot)** | A lean, personal assistant built with Baileys and Drizzle ORM for managing tasks directly via WhatsApp. |
 | **[TeamFinder](https://github.com/Pranav322/teamfinder)** | A collaboration platform connecting developers with relevant peers for project partnerships. |
 | **[Soulifyy](https://github.com/Pranav322/soulifyy)** | A modern web-based music streaming application leveraging the JioSaavn API. |
